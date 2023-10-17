@@ -1,0 +1,1 @@
+//!isNaN(notaExame) && isNaN(notaExameRec) && >=10 && calcularMediaExame(frequenciaEstudante,notaExame)>=10
